@@ -26,7 +26,7 @@ I have a strong belief in the effectiveness of well-structured code and sustaina
 <a href="https://linkedin.com/in/destined-akinro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="destined-akinro" height="30" width="40" /></a>
 </p>
 
-## 📬 **Let's Collaborate:**
+
 I'm always open to new opportunities, collaborations, and interesting projects. If you're looking for a frontend developer who can turn your ideas into reality, feel free to reach out!
 
 
