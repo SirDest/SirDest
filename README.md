@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am Akinro Destined
+#### Front-End Web Developer
 
 I'm a passionate frontend developer with a knack for crafting visually appealing and user-friendly web experiences. My journey in the world of web development began May, 2022 and I've been hooked ever since.
 
@@ -13,16 +14,17 @@ I'm a passionate frontend developer with a knack for crafting visually appealing
 💼 **Experience:**
 - [List any relevant job experiences or freelance projects with a brief description of your roles and accomplishments.]
 
-🛠️ **Tech Stack:**
+🛠️ **Skills:**
 - HTML, CSS, JavaScript (ES6+)
 - Frontend Frameworks - React
-- CSS Preprocessors (e.g., SASS, LESS)
-- Build Tools (e.g., Webpack, Babel)
-- Version Control (Git)
-- [Any other technologies or tools you're proficient with]
+- CSS Frameworks - TailwindCSS, Bootstrap
+  
 
 🌟 **What Sets Me Apart:**
 I have a strong belief in the effectiveness of well-structured code and sustainable solutions. My enthusiasm lies in crafting aesthetically pleasing interfaces that deliver a seamless user experience. What distinguishes me is my meticulousness and dedication to producing high-performing, accessible, and search engine-friendly code.
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SirDest)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/destined-akinro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://destined-portfolio-website.netlify.app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](akinro.destined@gmail.com)  
 
 
 🌐 **Connect with Me:**
