@@ -13,7 +13,7 @@ I'm a passionate frontend developer with a knack for crafting visually appealing
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://destined-portfolio-website.netlify.app/](https://destined-portfolio-website.netlify.app/)
+- 👨‍💻 You can view my portfolio at [https://destined-portfolio-website.netlify.app/](https://destined-portfolio-website.netlify.app/)
 
 
 ## 🛠️ **Skills and Languages:**
@@ -25,9 +25,6 @@ I have a strong belief in the effectiveness of well-structured code and sustaina
 
 ## 🌐 **Connect with Me:**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SirDest)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/destined-akinro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://destined-portfolio-website.netlify.app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](akinro.destined@gmail.com)
-
-*
 <p align="left">
 <a href="https://linkedin.com/in/destined-akinro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="destined-akinro" height="30" width="40" /></a>
 </p>
