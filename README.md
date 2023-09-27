@@ -29,9 +29,10 @@ I have a strong belief in the effectiveness of well-structured code and sustaina
 ## 📬 **Let's Collaborate:**
 I'm always open to new opportunities, collaborations, and interesting projects. If you're looking for a frontend developer who can turn your ideas into reality, feel free to reach out!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirdest&show_icons=true&locale=en" alt="sirdest" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirdest&show_icons=true&locale=en&layout=compact" alt="sirdest" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirdest&show_icons=true&locale=en" alt="sirdest" /></p>
 
 
 Thanks for visiting my GitHub profile! Explore my repositories, and if you find something that interests you or if you'd like to chat, don't hesitate to get in touch. Let's code something amazing together! 🚀
