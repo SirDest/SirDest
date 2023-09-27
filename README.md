@@ -24,10 +24,7 @@ I'm a passionate frontend developer with a knack for crafting visually appealing
 I have a strong belief in the effectiveness of well-structured code and sustainable solutions. My enthusiasm lies in crafting aesthetically pleasing interfaces that deliver a seamless user experience. What distinguishes me is my meticulousness and dedication to producing high-performing, accessible, and search engine-friendly code.
 
 🌐 **Connect with Me:**
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SirDest)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/destined-akinro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://destined-portfolio-website.netlify.app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](akinro.destined@gmail.com)  
-
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SirDest)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/destined-akinro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://destined-portfolio-website.netlify.app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](akinro.destined@gmail.com)
 
 📬 **Let's Collaborate:**
 I'm always open to new opportunities, collaborations, and interesting projects. If you're looking for a frontend developer who can turn your ideas into reality, feel free to reach out!
