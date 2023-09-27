@@ -1,8 +1,6 @@
 # Hi, I am Akinro Destined
 I'm a passionate frontend developer with a knack for crafting visually appealing and user-friendly web experiences. My journey in the world of web development began May, 2022 and I've been hooked ever since.
 
-[![Destined's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirdest)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🚀 **What I Do:**
 - Develop responsive and pixel-perfect web applications.
 - Create intuitive and interactive user interfaces.
