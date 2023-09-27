@@ -9,6 +9,8 @@ I'm a passionate frontend developer with a knack for crafting visually appealing
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirdest&label=Profile%20views&color=0e75b6&style=flat" alt="sirdest" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirdest&label=Profile%20views&color=0e75b6&style=flat" alt="sirdest" /> </p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 You can view my portfolio at [https://destined-portfolio-website.netlify.app/](https://destined-portfolio-website.netlify.app/)
@@ -29,9 +31,7 @@ I have a strong belief in the effectiveness of well-structured code and sustaina
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirdest&show_icons=true&locale=en" alt="sirdest" /></p>
 
-
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirdest&show_icons=true&locale=en&layout=compact" alt="sirdest" /></p>
 
 ## 📬 **Let's Collaborate:**
 I'm always open to new opportunities, collaborations, and interesting projects. If you're looking for a frontend developer who can turn your ideas into reality, feel free to reach out!
