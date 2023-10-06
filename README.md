@@ -11,7 +11,7 @@ I'm a passionate frontend developer with a knack for crafting visually appealing
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-👨‍💻 You can view my portfolio at [https://destined-portfolio-website.netlify.app/](https://destined-portfolio-website.netlify.app/)
+👨‍💻 You can view my portfolio at <a href="https://destined-portfolio-website.netlify.app">My Portfolio</a>
 
 
 ## 🛠️ **Skills and Languages:**
