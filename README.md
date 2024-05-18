@@ -35,5 +35,5 @@ I'm always open to new opportunities, collaborations, and interesting projects. 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirdest&show_icons=true&locale=en" alt="sirdest" /></p>
 
 
-Thanks for visiting my GitHub profile! Explore my repositories, and if you find something that interests you or if you'd like to chat, don't hesitate to get in touch. Let's code something amazing together! 🚀
+Thanks for visiting my GitHub profile! Explore my repositories, and if you find something that interests you or if you'd like to chat, don't hesitate to get in touch.🚀
 
