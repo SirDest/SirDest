@@ -1,12 +1,6 @@
 # Hi, I am Akinro Destined
 I'm a passionate frontend developer with a knack for crafting visually appealing and user-friendly web experiences. My journey in the world of web development began May, 2022 and I've been hooked ever since.
 
-## 🚀 **What I Do:**
-- Develop responsive and pixel-perfect web applications.
-- Create intuitive and interactive user interfaces.
-- Collaborate with cross-functional teams to deliver outstanding digital solutions.
-- Stay up-to-date with the latest web technologies and best practices.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirdest&label=Profile%20views&color=0e75b6&style=flat" alt="sirdest" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
